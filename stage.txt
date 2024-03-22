@@ -2,3 +2,4 @@ new file for staging branch
 we are making a change to stage branch
 we are making a change to stage branch immediately
 we are curious to see what could happen
+this is where we expect the conflict to happen
