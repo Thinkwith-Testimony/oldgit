@@ -1,2 +1,3 @@
 new file for staging branch
 we are making a change to stage branch
+we are making a change to stage branch immediately
